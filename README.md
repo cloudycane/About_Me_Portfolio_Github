@@ -1,7 +1,7 @@
 # Mi Portafolio
 ¡Bienvenido a mi portafolio profesional! Soy <b>Jay-Ar Abihay Tecson</b>, un desarrollador de software apasionado y especializado en SaaS (Software as a Service). Cuento con sólida experiencia en el desarrollo de soluciones tecnológicas utilizando tecnologías web, .NET, Python y Java.
 
-## Como desarrollador, siempre tengo en cuenta los distintos principios y prácticos: 
+## Como desarrollador, siempre aplico los distintos principios y prácticos de la programación: 
 En la hora de creación software y aplicaciones multiplataformas, aplico los siguientes principios y prácticos en cada lenguajes de programación: 
 <table>
   <thead>
