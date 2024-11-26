@@ -8,17 +8,13 @@ En la hora de creación software y aplicaciones multiplataformas, aplico los sig
     <tr>
       <th>HTML</th>
       <th>CSS</th>
-      <th>JavaScript</th>
-      <th>React</th>
-      <th>Angular</th>
-      <th>Vue</th>
     </tr>
     <tbody>
       <tr>
-        <td>Semantic HTML: utilizar las etiquetas HTML adecuadamente</td>
+        <td><b>Semantic HTML</b>: utilizar las etiquetas HTML adecuadamente</td>
       </tr>
       <tr>
-        <td>Accesibilidad: utilizar el atributo <i>alt</i> para las imágenes y elementos semánticos para mejorar la accesibilidad. </td>
+        <td><b>Accesibilidad:</b> utilizar el atributo <i>alt</i> para las imágenes y elementos semánticos para mejorar la accesibilidad. </td>
       </tr>
     </tbody>
   </thead>
