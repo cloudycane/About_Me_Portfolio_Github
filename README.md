@@ -1,5 +1,5 @@
 # Mi Portafolio
-¡Bienvenido a mi repositorio! Este es mi currículum digital: un portafolio interactivo que presenta mi experiencia, habilidades y proyectos clave. Aquí ves mi amor por la tecnología, mi creatividad como desarrollador y mi trabajo en acción. Echa un vistazo a mi historial a continuación e imagina el futuro juntos.
+¡Bienvenido a mi repositorio! Soy Jay-Ar Abihay Tecson. 
 
 En la hora de creación de las páginas web, aplico los siguientes principios en cada lenguajes de programación: 
 ## HTML5
