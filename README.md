@@ -3,6 +3,18 @@
 
 En la hora de creación software y aplicaciones multiplataformas, aplico los siguientes principios en cada lenguajes de programación: 
 ## HTML5
+<table>
+  <thead>
+    <tr>
+      <th>HTML</th>
+      <th>CSS</th>
+      <th>JavaScript</th>
+      <th>React</th>
+      <th>Angular</th>
+      <th>Vue</th>
+    </tr>
+  </thead>
+</table>
 <ul>
   <li>Semantic HTML</li>
   <li>Accesibilidad (A11y) o ARIA Roles para las imágenes</li>
