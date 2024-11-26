@@ -13,6 +13,14 @@ En la hora de creación software y aplicaciones multiplataformas, aplico los sig
       <th>Angular</th>
       <th>Vue</th>
     </tr>
+    <tbody>
+      <tr>
+        <td>Semantic HTML: utilizar las etiquetas HTML adecuadamente</td>
+      </tr>
+      <tr>
+        <td>Accesibilidad: utilizar el atributo <i>alt</i> para las imágenes y elementos semánticos para mejorar la accesibilidad. </td>
+      </tr>
+    </tbody>
   </thead>
 </table>
 <ul>
