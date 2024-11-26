@@ -16,6 +16,7 @@ En la hora de creación software y aplicaciones multiplataformas, aplico los sig
       <tr>
         <td><b>Accesibilidad:</b> utilizar el atributo <i>alt</i> para las imágenes y elementos semánticos para mejorar la accesibilidad. </td>
       </tr>
+      <tr><b>Minimal Markup:</b> evitar el uso de los elementos <i>div</i> y <i>span</i> innecesarios y mantener la estructura limpia.</tr>
     </tbody>
   </thead>
 </table>
