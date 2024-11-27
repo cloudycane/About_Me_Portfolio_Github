@@ -11,13 +11,17 @@ En la hora de creación software y aplicaciones multiplataformas, aplico los sig
     </tr>
     <tbody>
       <tr>
-        <td><b>Semantic HTML</b>: utilizar las etiquetas HTML adecuadamente</td>
+        <td><b>Semantic HTML</b>: utilizar las etiquetas HTML adecuadamente.</td>
       </tr>
       <tr>
         <td><b>Accesibilidad:</b> utilizar el atributo <i>alt</i> para las imágenes y elementos semánticos para mejorar la accesibilidad. </td>
       </tr>
       <tr>
-        <td><b>Minimal Markup:</b> evitar el uso de los elementos <i>div</i> y <i>span</i> innecesarios y mantener la estructura limpia.</tr></td>
+        <td><b>Minimal Markup:</b> evitar el uso de los elementos <i>div</i> y <i>span</i> innecesarios y mantener la estructura limpia.</td>
+      </tr>
+      <tr>
+        <td><b>SEO adecuado:</b> utilizar las etiquetas de <i>metas, header</i> y crear contenidos significativos para mejorar el posicionamiento de la página en los buscadores.</td>
+      </tr>
     </tbody>
   </thead>
 </table>
