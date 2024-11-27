@@ -7,7 +7,6 @@ En la hora de creación software y aplicaciones multiplataformas, aplico los sig
   <thead>
     <tr>
       <th>HTML</th>
-      <th>CSS</th>
     </tr>
     <tbody>
       <tr>
@@ -25,9 +24,16 @@ En la hora de creación software y aplicaciones multiplataformas, aplico los sig
     </tbody>
   </thead>
 </table>
-<ul>
-  <li>Semantic HTML</li>
-  <li>Accesibilidad (A11y) o ARIA Roles para las imágenes</li>
-  <li>Minimal Markup</li>
-  <li>Meaningful SEOs</li>
-</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>CSS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Principios LESS/SASS: </b></td>
+    </tr>
+  </tbody>
+</table>
